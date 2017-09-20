@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle auto-softwrap",
+        "command": "auto-softwrap:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "auto-softwrap",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "auto-softwrap:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
