@@ -1,17 +1,14 @@
 {
   "name": "auto-softwrap",
   "main": "./lib/auto-softwrap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Auto-enables softwrapping for every text editor.",
-  "keywords": [
-  ],
-  "activationCommands": {
-  },
+  "keywords": [],
+  "activationCommands": {},
   "repository": "https://github.com/MCStreetguy/auto-softwrap",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
