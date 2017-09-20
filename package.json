@@ -7,7 +7,7 @@
   ],
   "activationCommands": {
   },
-  "repository": "https://github.com/atom/auto-softwrap",
+  "repository": "https://github.com/MCStreetguy/auto-softwrap",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
